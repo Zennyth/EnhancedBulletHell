@@ -1,0 +1,3 @@
+extends SpawnPattern
+class_name PointSpawnPattern
+
